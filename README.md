@@ -14,3 +14,18 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi 👋, I'm Sriram Reddy
+A passionate Full Stack developer
+😎 Full Stack Developer at the HathiTrust
+
+🤠 Ex-Software Engineer at Tata Consultancy Services
+
+🌱 I’m currently learning React, NodeJS and AWS
+
+📫 How to reach me sripidap@iu.edu / p.sriramreddy0004@gmail.com / https://www.linkedin.com/in/sriramreddy-p/
+
+Connect with me:
+
+Languages and Tools:
+aws cplusplus css3 docker gcp git html5 java jenkins kubernetes linux mongodb mysql nodejs oracle pandas postgresql postman python react scikit_learn seaborn spring typescript
