@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 Hi 👋, I'm Sriram Reddy
 A passionate Full Stack developer
@@ -29,3 +28,5 @@ Connect with me:
 
 Languages and Tools:
 aws cplusplus css3 docker gcp git html5 java jenkins kubernetes linux mongodb mysql nodejs oracle pandas postgresql postman python react scikit_learn seaborn spring typescript
+
+-->
