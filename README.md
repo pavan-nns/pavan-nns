@@ -1,8 +1,9 @@
 
 # Hi there👋 I'm Netaji Sai Pavan Neerukonda
-
-<img src= "https://www.freecodecamp.org/news/content/images/2024/01/data-analyst-article.png" width="600" height="300"/>
-I am a Data Science graduate from Indiana University, holding both a Master's in Data Science and a Bachelor's in Computer Science. With around two years of relevant work experience, I have developed expertise in data analysis, machine learning, and deep learning. 
+<p align="center">
+  <img src= "https://www.freecodecamp.org/news/content/images/2024/01/data-analyst-article.png" width="600" height="300"/>
+</p>
+I am a Data Science graduate from Indiana University, holding both a Master's in Data Science and a Bachelor's in Computer Science. With around two years of relevant work experience, I have developed expertise in data analysis, machine learning, and deep learning. <br><br>
 
 My Tableau profile: <br>
 <a href="https://public.tableau.com/app/profile/netaji.sai.pavan.neerukonda1505/vizzes/"><img src= "https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" /></a>
@@ -93,6 +94,12 @@ To leverage my passion for using data to derive insights and solve complex probl
   <img src= "https://img.shields.io/badge/-JIRA-0052CC?&style=for-the-badge&logo=JIRA&logoColor=white" />
   <img src= "https://img.shields.io/badge/-Agile%20methodology-FFB900?&style=for-the-badge&logo=Agile%20methodology&logoColor=white" />
 </div>
+
+## Certifications
+<a href="https://www.credly.com/badges/7272c83d-346c-459b-9d75-31936e92f805/public_url"><img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-ff9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Solutions Architect"></a> 
+<a href="https://www.udemy.com/certificate/UC-9b15ac5c-9f94-4872-96b2-c5edf8ac1dfe/"><img src="https://img.shields.io/badge/-Udemy-EC5252?&style=for-the-badge&logo=udemy&logoColor=white" /></a>
+<a href= "https://www.coursera.org/account/accomplishments/verify/AZDZUM8MMXJ9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course"><img src="https://img.shields.io/badge/-Coursera-003C71?&style=for-the-badge&logo=coursera&logoColor=white" />
+
 
 <!--
 **pavan-nns/pavan-nns** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
