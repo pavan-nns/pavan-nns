@@ -1,11 +1,16 @@
 
 # Hi there👋 I'm Netaji Sai Pavan Neerukonda
 
-
+<img src= "https://www.freecodecamp.org/news/content/images/2024/01/data-analyst-article.png" width="600" height="300"/>
 I am a Data Science graduate from Indiana University, holding both a Master's in Data Science and a Bachelor's in Computer Science. With around two years of relevant work experience, I have developed expertise in data analysis, machine learning, and deep learning. 
 
-📫Reach me out at: <br><br>
-<a href="https://www.linkedin.com/in/pavannns/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:nnspavan@gmail.com"><img src= "https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> <a href="mailto:neneer@iu.edu"><img src= "https://img.shields.io/badge/-Outlook-0078D4?&style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white" /></a>
+My Tableau profile: <br>
+<a href="https://public.tableau.com/app/profile/netaji.sai.pavan.neerukonda1505/vizzes/"><img src= "https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" /></a>
+
+📫Reach me out at: <br>
+<a href="https://www.linkedin.com/in/pavannns/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:nnspavan@gmail.com"><img src= "https://img.shields.io/badge/-Gmail-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" /></a> 
+<a href="mailto:neneer@iu.edu"><img src= "https://img.shields.io/badge/-Outlook-0078D4?&style=for-the-badge&logo=Microsoft%20Outlook&logoColor=white" /></a>
 
 
 ## Objective
