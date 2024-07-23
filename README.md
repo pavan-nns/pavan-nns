@@ -42,9 +42,6 @@ To leverage my passion for using data to derive insights and solve complex probl
   <img src= "https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" />
   <img src= "https://img.shields.io/badge/-Power%20BI-F2C811?&style=for-the-badge&logo=Power%20BI&logoColor=black" />
   <img src= "https://img.shields.io/badge/-Excel-217346?&style=for-the-badge&logo=Microsoft%20Excel&logoColor=white" />
-  <img src= "https://img.shields.io/badge/-Informatica-FF4C00?&style=for-the-badge&logo=Informatica&logoColor=white" />
-  <img src= "https://img.shields.io/badge/-Looker-4285F4?&style=for-the-badge&logo=Looker&logoColor=white" />
-  <img src= "https://img.shields.io/badge/-Qlik-7AB800?&style=for-the-badge&logo=Qlik&logoColor=white" />
   <img src= "https://img.shields.io/badge/-Seaborn-4C78A8?&style=for-the-badge&logo=Seaborn&logoColor=white" />
   <img src= "https://img.shields.io/badge/-Matplotlib-11557C?&style=for-the-badge&logo=Matplotlib&logoColor=white" />
   <img src= "https://img.shields.io/badge/-Plotly-3F4F75?&style=for-the-badge&logo=Plotly&logoColor=white" />
@@ -56,11 +53,8 @@ To leverage my passion for using data to derive insights and solve complex probl
 <div>
   <img src= "https://img.shields.io/badge/-PostgreSQL-4169E1?&style=for-the-badge&logo=PostgreSQL&logoColor=white" />
   <img src= "https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
-  <img src= "https://img.shields.io/badge/-Microsoft%20SQL%20Server-CC2927?&style=for-the-badge&logo=Microsoft%20SQL%20Server&logoColor=white" />
-  <img src= "https://img.shields.io/badge/-Oracle-F80000?&style=for-the-badge&logo=Oracle&logoColor=white" />
   <img src= "https://img.shields.io/badge/-Snowflake-29B5E8?&style=for-the-badge&logo=Snowflake&logoColor=white" />
   <img src= "https://img.shields.io/badge/-Amazon%20Redshift-8C4FFF?&style=for-the-badge&logo=Amazon%20Redshift&logoColor=white" />
-  <img src= "https://img.shields.io/badge/-Databricks-FF3621?&style=for-the-badge&logo=Databricks&logoColor=white" />
   <img src= "https://img.shields.io/badge/-MongoDB-47A248?&style=for-the-badge&logo=MongoDB&logoColor=white" />
   <img src= "https://img.shields.io/badge/-Neo4j-008CC1?&style=for-the-badge&logo=Neo4j&logoColor=white" />
 </div>
@@ -74,11 +68,9 @@ To leverage my passion for using data to derive insights and solve complex probl
   <img src= "(https://img.shields.io/badge/-Selenium-43B02A?&style=for-the-badge&logo=Selenium&logoColor=white" />
   <img src= "https://img.shields.io/badge/-PyTorch-EE4C2C?&style=for-the-badge&logo=PyTorch&logoColor=white" />
   <img src= "https://img.shields.io/badge/-TensorFlow-FF6F00?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
-  <img src= "https://img.shields.io/badge/-NLTK-2B5B84?&style=for-the-badge&logo=NLTK&logoColor=white" />
   <img src= "https://img.shields.io/badge/-BERT-FFDA44?&style=for-the-badge&logo=BERT&logoColor=black" />
   <img src= "https://img.shields.io/badge/-Flask-000000?&style=for-the-badge&logo=Flask&logoColor=white" />
-  <img src= "https://img.shields.io/badge/-Boto3-43853D?&style=for-the-badge&logo=Amazon%20AWS&logoColor=white" />
-</div>
+  </div>
 
 ### Others
 <div>
@@ -92,7 +84,7 @@ To leverage my passion for using data to derive insights and solve complex probl
   <img src= "https://img.shields.io/badge/-Web%20Scraping-FF6F00?&style=for-the-badge&logo=Web%20Scraping&logoColor=white" />
   <img src= "https://img.shields.io/badge/-Git-F05032?&style=for-the-badge&logo=Git&logoColor=white" />
   <img src= "https://img.shields.io/badge/-JIRA-0052CC?&style=for-the-badge&logo=JIRA&logoColor=white" />
-  <img src= "https://img.shields.io/badge/-Agile%20methodology-FFB900?&style=for-the-badge&logo=Agile%20methodology&logoColor=white" />
+  <img src= "https://img.shields.io/badge/-Agile%20-FFB900?&style=for-the-badge&logo=Agile%20methodology&logoColor=white" />
 </div>
 
 ## Certifications
