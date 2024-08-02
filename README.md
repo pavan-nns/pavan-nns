@@ -4,7 +4,16 @@
   <img src= "https://miro.medium.com/v2/resize:fit:1400/0*tD5kEC2JYcKHH0zO.gif" width="600" height="300"/>
 </p>
 
-### I am a Data Science graduate from Indiana University, holding both a Master's in Data Science and a Bachelor's in Computer Science. With around two years of relevant work experience, I have developed expertise in data analysis, machine learning, and deep learning. <br><br>
+### 
+- Education: Data Science graduate from Indiana University Bloomington, May 2024.
+- Experience: Over 2 years in data analytics and business intelligence with roles at Hoosier Community Network, Infosys, and Bellwether.
+- Skills: Proficient in data visualization, machine learning, cloud computing, and various tools including Python, SQL, R, Tableau, and AWS.
+- Achievements:
+  - Reduced course drop-off rates by 17% through advanced ETL processes.
+  - Enhanced customer engagement by 33% with interactive dashboards.
+  - Boosted data throughput by 60% through optimized ETL processes.
+- Professional Approach: Passionate about extracting actionable insights from complex datasets, optimizing business processes, and driving data-driven decision-making.
+- Objective: Seeking new opportunities to leverage my skills in data analytics and engineering to make a significant impact.<br><br>
 
 ### My Tableau profile: <br>
 <a href="https://public.tableau.com/app/profile/netaji.sai.pavan.neerukonda1505/vizzes/"><img src= "https://img.shields.io/badge/-Tableau-E97627?&style=for-the-badge&logo=Tableau&logoColor=white" /></a>
