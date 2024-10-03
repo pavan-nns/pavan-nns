@@ -6,7 +6,7 @@
 
 ### 
 - Education: Data Science graduate from Indiana University Bloomington, May 2024.
-- Experience: Over 2 years in data analytics and business intelligence with roles at Hoosier Community Network, Infosys, and Bellwether.
+- Experience: Over 3 years in data analysis and business intelligence with roles at Hoosier Community Network, CTIL, and Infosys.
 - Skills: Proficient in data visualization, machine learning, cloud computing, and various tools including Python, SQL, R, Tableau, and AWS.
 - Achievements:
   - Reduced course drop-off rates by 17% through advanced ETL processes.
