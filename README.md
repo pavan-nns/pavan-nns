@@ -1,5 +1,5 @@
 
-# Hi there👋 I'm Netaji Sai Pavan Neerukonda
+# Hi there👋 I'm Pavan Neerukonda
 <p align="center">
   <img src= "https://miro.medium.com/v2/resize:fit:1400/0*tD5kEC2JYcKHH0zO.gif" width="600" height="300"/>
 </p>
